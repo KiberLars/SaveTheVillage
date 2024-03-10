@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SKILLBOX Practice\\7.6 practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0CD9ABB-CBCC-FA08-95F0-D0A237313252}|Assembly-CSharp.csproj|d:\\skillbox practice\\7.6 practice\\assets\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0CD9ABB-CBCC-FA08-95F0-D0A237313252}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0CD9ABB-CBCC-FA08-95F0-D0A237313252}|Assembly-CSharp.csproj|D:\\SKILLBOX Practice\\7.6 practice\\assets\\script\\buttonclip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0CD9ABB-CBCC-FA08-95F0-D0A237313252}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\buttonclip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0CD9ABB-CBCC-FA08-95F0-D0A237313252}|Assembly-CSharp.csproj|D:\\SKILLBOX Practice\\7.6 practice\\assets\\script\\volumecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0CD9ABB-CBCC-FA08-95F0-D0A237313252}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\volumecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0CD9ABB-CBCC-FA08-95F0-D0A237313252}|Assembly-CSharp.csproj|D:\\SKILLBOX Practice\\7.6 practice\\assets\\script\\timerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0CD9ABB-CBCC-FA08-95F0-D0A237313252}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\timerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ButtonClip.cs",
+              "DocumentMoniker": "D:\\SKILLBOX Practice\\7.6 practice\\Assets\\Script\\ButtonClip.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ButtonClip.cs",
+              "ToolTip": "D:\\SKILLBOX Practice\\7.6 practice\\Assets\\Script\\ButtonClip.cs",
+              "RelativeToolTip": "Assets\\Script\\ButtonClip.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T11:47:32.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VolumeController.cs",
+              "DocumentMoniker": "D:\\SKILLBOX Practice\\7.6 practice\\Assets\\Script\\VolumeController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\VolumeController.cs",
+              "ToolTip": "D:\\SKILLBOX Practice\\7.6 practice\\Assets\\Script\\VolumeController.cs",
+              "RelativeToolTip": "Assets\\Script\\VolumeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T11:29:39.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\SKILLBOX Practice\\7.6 practice\\Assets\\Script\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\GameManager.cs",
+              "ToolTip": "D:\\SKILLBOX Practice\\7.6 practice\\Assets\\Script\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Script\\GameManager.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAQwE8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T14:18:19.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TimerScript.cs",
+              "DocumentMoniker": "D:\\SKILLBOX Practice\\7.6 practice\\Assets\\Script\\TimerScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\TimerScript.cs",
+              "ToolTip": "D:\\SKILLBOX Practice\\7.6 practice\\Assets\\Script\\TimerScript.cs",
+              "RelativeToolTip": "Assets\\Script\\TimerScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwB8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T13:59:00.441Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
